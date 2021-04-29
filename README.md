@@ -1,3 +1,5 @@
+# THIS REPO IS NOW ARCHIVED, READ ONLY AND UNSUPPORTED
+
 <h1 align="center">Welcome to nitro-sniper 👋</h1>
 <p>
   <a href="https://www.npmjs.com/package/nitro-sniper" target="_blank">
